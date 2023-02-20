@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sodimac.SCPRO.Common\Sodimac.SCPRO.Common.csproj" />
+    <ProjectReference Include="..\Sodimac.SCPRO.DomainSecurity\Sodimac.SCPRO.DomainSecurity.csproj" />
+  </ItemGroup>
+
+</Project>
